@@ -15,7 +15,6 @@ class Song
   end
   def genre(genre)
     @genre = genre
-    @@genres = []
 
   end
 end
