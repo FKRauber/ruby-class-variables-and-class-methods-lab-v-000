@@ -13,8 +13,11 @@ class Song
   def count(name)
     name.count
   end
-  def genre(genre)
+  def genres(genre)
     @genre = genre
 
+  end
+  def artists
+    
   end
 end
