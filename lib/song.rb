@@ -15,7 +15,6 @@ class Song
     name.count
   end
   def genres(genre)
-    @genre = genre
 
   end
   def artists
