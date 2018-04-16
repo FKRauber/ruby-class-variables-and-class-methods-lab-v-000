@@ -6,13 +6,14 @@ class Song
     @@count += 1
     @name = name
     @artist = artist
-    @genre = genre
   end
 
   def count(name)
     name.count
   end
-  def genre
-
+  def genre(genre)
+    @genre = genre
+    genres = []
+    
   end
 end
