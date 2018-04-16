@@ -14,7 +14,7 @@ class Song
   end
 
   def count(name)
-    name.count
+    @@count
   end
   def genres(genre)
 
