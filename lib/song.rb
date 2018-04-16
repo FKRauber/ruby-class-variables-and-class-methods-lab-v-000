@@ -18,6 +18,9 @@ class Song
 
   end
   def artists
+
+  end
+  def artist_count
     
   end
 end
